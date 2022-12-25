@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nahian Adnan</h1>
 <h3 align="center">A Linux Enthusiast.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<img align="right" alt="Coding" width="350" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahian-adnan&label=Profile%20views&color=9141ac&style=flat-square" alt="nahian-adnan" /> </p>
