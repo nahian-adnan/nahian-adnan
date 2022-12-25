@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/nah_ian_adnan" target="blank"><img src="https://img.shields.io/twitter/follow/nah_ian_adnan?logo=twitter&style=for-the-badge" alt="nah_ian_adnan" /></a> </p>
 
-- 🔭 I’m currently working on [LINUX](https://exodia-os.github.io/exodia-website/)
+- I’m currently working on [LINUX](https://exodia-os.github.io/exodia-website/)
 
-- 🌱 I’m currently learning **PEN-TESTING**
+- I’m currently learning **PEN-TESTING**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nahian-adnan?tab=repositories](https://github.com/nahian-adnan?tab=repositories)
+- All of my projects are available at [https://github.com/nahian-adnan?tab=repositories](https://github.com/nahian-adnan?tab=repositories)
 
-- 📫 How to reach me **nahianadnan1234@proton.me**
+- Reach me with email - **nahianadnan1234@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
